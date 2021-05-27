@@ -52,7 +52,7 @@ void sortvl() // function to sort according value.
     {
         for (int j = 0; j < n - i - 1; j++)
         {
-            if (vl[j] > vl[j + 1])
+            if (vl[j] < vl[j + 1])
             {
                 int temp = vl[j];
                 vl[j] = vl[j + 1];
