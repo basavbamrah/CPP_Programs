@@ -135,7 +135,3 @@ int main()
     cout << endl;
     return 0;
 }
-
-/*
-
-set and disp function to be debugged*/
