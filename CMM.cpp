@@ -56,7 +56,7 @@ int main()
     cout<<endl;
     
     cout << "MINIMUM COST OF MULTIPLICATION IS:" << chainMatrixMultliplication(arr, n) << endl;
-    disp(1, 6);
+    disp(1, n-1);
     cout << endl;
     return 0;
 }
